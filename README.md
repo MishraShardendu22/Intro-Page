@@ -1,4 +1,4 @@
-# Intro Page - Shardendu Mishra
+# [Intro Page - Shardendu Mishra](https://intro-name-shardendu-mishra.netlify.app/) - Shardendu Mishra
 
 ## Overview
 This project is a personal introduction page created using **HTML**, **CSS**, and **JavaScript**. The page serves as a digital business card, showcasing key information about myself in a visually appealing manner.
@@ -7,9 +7,6 @@ This project is a personal introduction page created using **HTML**, **CSS**, an
 - **Responsive Design:** The page is fully responsive, ensuring a consistent user experience across different devices and screen sizes.
 - **Clean and Minimalist UI:** The design focuses on simplicity and clarity, presenting information in a straightforward and aesthetically pleasing way.
 - **Interactive Elements:** JavaScript is used to add dynamic elements that enhance user interaction and engagement.
-
-## Live Demo
-Check out the live version of the page here: [Intro Page - Shardendu Mishra](https://intro-name-shardendu-mishra.netlify.app/)
 
 ## Technologies Used
 - ![HTML5](https://img.icons8.com/color/20/000000/html-5.png) **HTML5:** For the basic structure and content of the page.
