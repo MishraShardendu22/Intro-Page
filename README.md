@@ -1,6 +1,7 @@
 # [Intro Page - Shardendu Mishra](https://intro-name-shardendu-mishra.netlify.app/)
 
-## Overview
+## About
+
 This project is a personal introduction page created using **HTML**, **CSS**, and **JavaScript**. The page serves as a digital business card, showcasing key information about myself in a visually appealing manner.
 
 ## Features
